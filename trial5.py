@@ -2,7 +2,7 @@
 
 import hashlib
 
-f = open('sample_01.wl','rU')
+f = open('/home/za/dev/github/id-wordlist/00-indonesian-wordlist.lst','rU')
 
 wordlist = [l.strip() for l in f.readlines()]
 print wordlist
