@@ -1,3 +1,2 @@
 admin
-administrator
 password
